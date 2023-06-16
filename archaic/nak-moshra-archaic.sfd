@@ -4,7 +4,7 @@ FullName: Nak'Moshra-Archaic
 FamilyName: Nak'Moshra
 Weight: Regular
 Copyright: Copyright (c) 2023, kroonhorstdino
-Version: 001.000
+Version: 001.100
 ItalicAngle: 0
 UnderlinePosition: -101
 UnderlineWidth: 51
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1686858542
-ModificationTime: 1686925539
+ModificationTime: 1686928385
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -61,7 +61,7 @@ Lookup: 2 0 0 "ccmp decomposition" { "ccmp decomposition-1"  } ['ccmp' ('DFLT' <
 Lookup: 4 0 1 "liga" { "liga-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "FontForge 2.0 : Nak'Moshra-Archaic : 15-6-2023" "" "Version 001.000"
+LangName: 1033 "" "" "" "FontForge 2.0 : Nak'Moshra-Archaic : 15-6-2023" "" "Version 001.100"
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -155,14 +155,14 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 5
-Width: 859
+Width: 926
 VWidth: 1000
 GlyphClass: 1
 Flags: HMW
 LayerCount: 2
 Fore
 Refer: 31 101 N 1 0 0 1 0 0 2
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: F
@@ -638,7 +638,7 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 31
-Width: 859
+Width: 926
 VWidth: 1000
 GlyphClass: 1
 Flags: HMW
@@ -646,43 +646,38 @@ HStem: 438 23G
 LayerCount: 2
 Fore
 SplineSet
-229 22 m 1
- 206 35 l 1
- 141 153 l 2
- 68 285 10 398 10 409 c 0
- 10 428 30 406 127 278 c 0
- 184 202 239 133 249 124 c 2
- 265 108 l 1
- 296 175 l 1
- 387 370 423 441 433 450 c 2
- 447 460 l 1
- 440 429 l 2
- 437 413 411 317 382 217 c 2
- 330 35 l 1
- 315 25 l 2
- 306 19 287 13 274 11 c 2
- 251 8 l 1
- 229 22 l 1
-859 167 m 0
- 836 191 725 338 684 397 c 0
- 671 416 650 452 639 477 c 0
- 628 502 618 524 616 524 c 0
- 614 524 596 499 575 468 c 0
- 508 368 442 275 436 275 c 2
- 436 275 l 1
- 436 276 l 2
- 436 286 465 355 532 502 c 0
- 564 571 591 635 594 644 c 0
- 600 659 615 666 633 666 c 0
- 651 666 666 660 674 645 c 0
- 678 635 690 603 700 573 c 0
- 720 513 783 370 846 241 c 0
- 869 194 888 153 889 150 c 0
- 890 148 891 147 891 146 c 0
- 891 145 890 144 889 144 c 0
- 885 144 873 153 859 167 c 0
+235 23 m 1
+ 212 36 l 1
+ 147 154 l 2
+ 74 286 16 399 16 412.259007077 c 0
+ 16 414 17 416 18.5657519608 416 c 0
+ 36.4601547037 416 221.91916927 154.772747657 255 125 c 1
+ 271 109 l 1
+ 302 176 l 2
+ 393 371 429 442 439 451 c 1
+ 453 461 l 1
+ 446 430 l 2
+ 443 414 417 318 388 218 c 2
+ 336 36 l 1
+ 321 26 l 2
+ 312 20 293 14 280 12 c 2
+ 257 9 l 1
+ 235 23 l 1
+885.755620823 165.494227263 m 0
+ 858 194 747 341 714.660621603 387.904501966 c 0
+ 664.249392933 461.02011802 642.659819813 527 638.534139451 527 c 0
+ 636 527 617.841530262 502.106761585 588.708098917 458.624028234 c 0
+ 530 371 459 274 453 274 c 1
+ 453 275 l 2
+ 453 294.841348645 598.448364515 594.345093544 613.405585133 637.311509292 c 0
+ 622 662 637 669 655.693334857 669 c 0
+ 673 669 688 663 695.655824399 647.050365834 c 0
+ 700 638 712 606 719.108241507 584.675275479 c 0
+ 762.587338171 454.237985486 913 152.656873003 913 148.351083632 c 0
+ 913 148 912 147 910.75 147 c 0
+ 907 147 895 156 885.755620823 165.494227263 c 0
 EndSplineSet
-Validated: 37
+Validated: 524289
 EndChar
 
 StartChar: f
@@ -704,7 +699,7 @@ SplineSet
  168 227 151 226 151 234 c 0
  151 238 156 246 169 257 c 0
  206 290 241 308 293 321 c 2
- 345 334 l 1
+ 350 334 l 1
  350 396 l 1
  350 459 l 1
  327 464 l 2
@@ -713,11 +708,11 @@ SplineSet
  11 486 l 1
  38 498 l 2
  53 505 131 527 207 546 c 2
- 350 581 l 1xd8
+ 354 581 l 1xd8
  354 675 l 1
- 354 770 l 1
- 367 770 l 1
- 383 770 l 1
+ 354 768 l 1
+ 367 768 l 1
+ 383 768 l 1
  383 679 l 1xd4
  383 587 l 1
  424 581 l 2
@@ -1813,14 +1808,14 @@ EndChar
 
 StartChar: a_e
 Encoding: 257 -1 57
-Width: 550
+Width: 612
 Flags: W
-HStem: -110 23G<316 319> 704 22G<-221 -220> 768 0<-252 -252 -234 -234 -187 -187> 868.2 9.2G
+HStem: -110 23G<378 381> 704 22G<-159 -158> 768 0<-190 -190 -172 -172 -125 -125> 868.2 9.2G
 LayerCount: 2
 Fore
 Refer: 31 101 N 0.4 0 0 0.4 117 693 2
-Refer: 27 97 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 27 97 N 1 0 0 1 62 0 2
+Validated: 1
 LCarets2: 1 0
 Ligature2: "liga-1" a e
 EndChar
@@ -1833,9 +1828,9 @@ HStem: 868.2 9.2G
 VStem: 110 229<243 283>
 LayerCount: 2
 Fore
-Refer: 31 101 S 0.4 0 0 0.4 229 693 2
+Refer: 31 101 N 0.4 0 0 0.4 229 693 2
 Refer: 41 111 N 1 0 0 1 0 0 2
-Validated: 5
+Validated: 1
 LCarets2: 1 0
 Ligature2: "liga-1" o e
 EndChar
@@ -1849,7 +1844,7 @@ LayerCount: 2
 Fore
 Refer: 31 101 N 0.4 0 0 0.4 169 693 2
 Refer: 47 117 N 1 0 0 1 0 0 2
-Validated: 5
+Validated: 1
 LCarets2: 1 0
 Ligature2: "liga-1" u e
 EndChar
@@ -1862,18 +1857,18 @@ HStem: 419 22G<118 170 170 210> 868.2 9.2G
 LayerCount: 2
 Fore
 Refer: 59 -1 N 1 0 0 1 0 0 2
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: Adieresis
 Encoding: 196 196 61
 Width: 550
 Flags: W
-HStem: -110 23G<316 319> 704 22G<-221 -220> 768 0<-252 -252 -234 -234 -187 -187> 868.2 9.2G
+HStem: -110 23G<378 381> 704 22G<-159 -158> 768 0<-190 -190 -172 -172 -125 -125> 868.2 9.2G
 LayerCount: 2
 Fore
 Refer: 57 -1 N 1 0 0 1 0 0 2
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: Odieresis
@@ -1885,7 +1880,7 @@ VStem: 110 229<243 283>
 LayerCount: 2
 Fore
 Refer: 58 -1 N 1 0 0 1 0 0 2
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: Udieresis
@@ -1896,18 +1891,18 @@ HStem: 419 22G<118 170 170 210> 868.2 9.2G
 LayerCount: 2
 Fore
 Refer: 59 -1 N 1 0 0 1 0 0 2
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: adieresis
 Encoding: 228 228 64
 Width: 550
 Flags: W
-HStem: -110 23G<316 319> 704 22G<-221 -220> 768 0<-252 -252 -234 -234 -187 -187> 868.2 9.2G
+HStem: -110 23G<378 381> 704 22G<-159 -158> 768 0<-190 -190 -172 -172 -125 -125> 868.2 9.2G
 LayerCount: 2
 Fore
-Refer: 57 -1 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 57 -1 S 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: odieresis
@@ -1919,7 +1914,7 @@ VStem: 110 229<243 283>
 LayerCount: 2
 Fore
 Refer: 58 -1 N 1 0 0 1 0 0 2
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: exclam
