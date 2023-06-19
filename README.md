@@ -1,2 +1,3 @@
 # nak-moshra-fonts
-Fonts by the Nak'Moshra Clan
+Fonts for the Nak'Moshra Clan
+Created by kroonhorstdino (Christoph Hueter)
